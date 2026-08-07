@@ -1,0 +1,19 @@
+site_name: helix-notes
+site_description: Technical documentation blending Python, DSA, and Genomic Biology.
+
+theme:
+  name: material
+  palette:
+    # Scientific clean teal and mint color scheme
+    - primary: teal
+      accent: mint
+
+nav:
+  - Home: index.md
+  - Tutorials:
+    - "FASTA Parser Guide": tutorials/fasta-parser.md
+  - Reference Manuals:
+    - "DNA-to-Protein CLI": reference/dna-cli.md
+  - Deep Dives:
+    - "Optimizing Mutation Loops": articles/mutation-loops.md
+
