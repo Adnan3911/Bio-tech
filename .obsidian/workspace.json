@@ -10,15 +10,17 @@
           {
             "id": "d285d8ab16424487",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/mutation-loops.md.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "mutation-loops.md"
+              "title": "index"
             }
           }
         ]
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/articles/mutation-loops.md.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/articles/mutation-loops.md.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/articles/mutation-loops.md.md",
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,14 +187,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Import notes": false
     }
   },
   "active": "d285d8ab16424487",
   "lastOpenFiles": [
-    "docs/reference/dna-cli.md.md",
-    "docs/articles/mutation-loops.md.md",
-    "docs/tutorials/fasta-parser.md.md",
+    "docs/reference/dna-cli.md",
+    "docs/articles/mutation-loops.md",
+    "docs/tutorials/fasta-parser.md",
     "docs/articles",
     "docs/reference",
     "docs/tutorials"

@@ -10,10 +10,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Tutorials:
-    - "FASTA Parser Guide": tutorials/fasta-parser.md
-  - Reference Manuals:
-    - "DNA-to-Protein CLI": reference/dna-cli.md
-  - Deep Dives:
-    - "Optimizing Mutation Loops": articles/mutation-loops.md
-
+  - Tutorials: tutorials/fasta-parser.md
+  - Reference Manuals: reference/dna-cli.md
+  - Deep Dives: articles/mutation-loops.md
